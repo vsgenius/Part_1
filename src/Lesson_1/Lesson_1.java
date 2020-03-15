@@ -5,7 +5,7 @@ public class Lesson_1 {
         {
             System.out.println(a * (b + (c / d)));
         }
-        
+
         private static void task10and20(int x1, int x2) {
             if (x1 + x2 > 10) {
                 if (x1 + x2 < 20) {
@@ -39,5 +39,4 @@ public class Lesson_1 {
             privet("Владимир");
             visokosnij (2019);
         };
->>>>>>> Stashed changes
 }
